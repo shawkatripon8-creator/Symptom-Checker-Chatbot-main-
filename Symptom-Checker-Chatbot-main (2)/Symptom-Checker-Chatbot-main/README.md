@@ -1,7 +1,7 @@
 
 # Symptom Checker Chatbot ai 
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub license]https://github.com/shawkatripon8-creator/Symptom-Checker-Chatbot-main-
 
 A simple chatbot that can help users check their symptoms and provide relevant information. This chatbot uses natural language processing (NLP) techniques and a recurrent neural network (RNN) model to understand user queries and respond accordingly.
 
@@ -81,13 +81,9 @@ You can install these dependencies using the provided `requirements.txt` file.
 
 If you'd like to contribute to this project, feel free to fork the repository and submit pull requests. Contributions are welcome, whether it's bug fixes, feature enhancements, or documentation improvements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For questions or collaboration opportunities, feel free to contact us at monishkumarpecai@gmail.com.
+For questions or collaboration opportunities, feel free to contact us at shawkatripon8@gmail.com
 
 ---
 
